@@ -1,4 +1,4 @@
 #React Redux GraphQL
-Test code...
+Test code.
 
 Copyright © 2017 Dekc.Net 
